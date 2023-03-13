@@ -47,6 +47,13 @@ p = 10, s = 5; 123,45 -> 123,45000
 
 MONEY
 
+## Một vài quy tắc nhỏ
+- Mã: == 10 character
+- Tên: <= 20 character
+- Thành phố: <= 20 character
+
+
+
 ## Tạo CSDL
 
 Cú pháp:
@@ -86,7 +93,7 @@ Thêm các ràng buộc vào các bảng trong CSDL Quản lý bán hàng:
 
 Một vài keyword thao tác:
 - Tạo CSDL
-- Tạo các bảng của csdl QLBH, set PK
-
+- Tạo các bảng của csdl QLBH, set PK, tạo các ràng buộc cho bảng
+- Liên kết bảng với Diagrams
 
 Sample solution:
